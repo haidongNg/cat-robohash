@@ -1,4 +1,13 @@
-![GitHub Logo](/public/logo.png)
+![GitHub Logo](https://github.com/haidongNg/cats-robohash/blob/master/public/demo.png?raw=true)
+
+# Demo action search
+
+Link API:
+
+Data: http://jsonplaceholder.typicode.com/users
+
+Images: https://robohash.org
+
 
 # Getting Started with Create React App
 
