@@ -1,4 +1,4 @@
-![GitHub Logo](https://github.com/haidongNg/cats-robohash/blob/master/public/demo.png?raw=true)
+![GitHub Logo](https://github.com/haidongNg/cat-robohash/blob/master/public/demo.png?raw=true)
 
 # Demo action search
 
